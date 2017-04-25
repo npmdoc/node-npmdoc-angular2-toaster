@@ -1,4 +1,7 @@
-# api documentation for  [angular2-toaster (v3.0.1)](https://github.com/stabzs/Angular2-Toaster#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-toaster)
+# npmdoc-angular2-toaster
+
+#### basic api documentation for  [angular2-toaster (v3.0.1)](https://github.com/stabzs/Angular2-Toaster#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-toaster)
+
 #### An Angular 2 Toaster Notification library based on AngularJS-Toaster
 
 [![NPM](https://nodei.co/npm/angular2-toaster.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2-toaster)
@@ -113,7 +116,8 @@
         "uglify": "uglifyjs ./dist/bundles/angular2-toaster.umd.js -o ./dist/bundles/angular2-toaster.umd.min.js && npm run copy"
     },
     "typings": "angular2-toaster.d.ts",
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "bin": {}
 }
 ```
 

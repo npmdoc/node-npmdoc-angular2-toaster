@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [angular2-toaster (v3.0.1)](https://github.com/stabzs/Angular2-Toaster#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-toaster)",
+    "description": "#### basic api documentation for  [angular2-toaster (v3.0.1)](https://github.com/stabzs/Angular2-Toaster#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-toaster)",
     "devDependencies": {
         "angular2-toaster": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
